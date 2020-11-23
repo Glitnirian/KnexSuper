@@ -1,6 +1,6 @@
 {
   "name": "knexsuper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Knex query builder wrapper! That add different easing functionalities! And some features support for specific db! Like Postgres!",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -39,7 +39,6 @@
   "keywords": [
     "Knex",
     "Wrapper",
-    "simple",
-    "orm"
+    "Model"
   ]
 }
